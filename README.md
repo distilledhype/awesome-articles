@@ -8,7 +8,7 @@
 Understand promises instantly.
 
 ## ES6
-**Articles on ES6** by [Dr. Axel Rauschmayer](http://twitter.com/rauschma)  
+**[Articles on ES6](http://www.2ality.com/search/label/esnext)** by [Dr. Axel Rauschmayer](http://twitter.com/rauschma)  
 Understand all the ES6 things.
 
 ## License
