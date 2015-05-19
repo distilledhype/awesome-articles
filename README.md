@@ -7,6 +7,10 @@
 **[We have a problem with promises](http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)** by [Nolan Lawson](https://twitter.com/nolanlawson)  
 Understand promises instantly.
 
+## ES6
+**Articles on ES6** by [Dr. Axel Rauschmayer](http://twitter.com/rauschma)  
+Understand all the ES6 things.
+
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
