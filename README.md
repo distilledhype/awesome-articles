@@ -11,12 +11,15 @@ Understand promises instantly.
 Understand all the ES6 things.
 
 ## Static Web Apps
-**[Lazymorphic Apps: Bringing Back the Static Web](https://blog.andyet.com/2015/05/18/lazymorphic-apps-bringing-back-static-web)** by [Henrik Joreteg](http://twitter.com/HenrikJoreteg)
+**[Lazymorphic Apps: Bringing Back the Static Web](https://blog.andyet.com/2015/05/18/lazymorphic-apps-bringing-back-static-web)** by [Henrik Joreteg](http://twitter.com/HenrikJoreteg)  
+An inspiring article on how to easily build static web apps that mix actual static HTML pages with application logic added with JavaScript and APIs.
 
-**[Static Apps](http://staticapps.org)** by [Divshot](https://divshot.com/)
+**[Static Apps](http://staticapps.org)** by [Divshot](https://divshot.com/)  
+An entire page containing a lot of information about what static web apps are and how you can build them.
 
 ## Speaking
-**[speaking.io](http://speaking.io)** by [Zach Holman](http://twitter.com/holman)
+**[speaking.io](http://speaking.io)** by [Zach Holman](http://twitter.com/holman)  
+Articles on speaking by Zach Holman who has been giving [some great talks](http://zachholman.com/talks) during the time he worked at Github.
 
 ## License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
